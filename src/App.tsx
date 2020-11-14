@@ -8,5 +8,7 @@ const Example: AnyStyledComponent = styled.div`
 `;
 
 export default () => {
+
 	return <Test></Test>;
+
 };
